@@ -3,7 +3,9 @@
 I am a final year Machine Design Engineer at [Bandung State Polytechnic](https://www.polban.ac.id), Indonesia. In another way I interest in Machine Learning, Python, especially Pygame library
 
 **Recent Update**:
-- **August 2022**
+- **August 2022**: Completed " Start Programming with Python" by Dicoding Indonesia. [[Certificate]](https://www.dicoding.com/certificates/EYX425QQJZDL)
+- **August 2022**: Completed " Machine Learning for Beginners" by Dicoding Indonesia. [[Certificate]](https://www.dicoding.com/certificates/NVP7KV5Y4ZR0)
+
 
 ## Skills:
 
