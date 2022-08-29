@@ -1,6 +1,6 @@
 ### Hi there, I'm [Daffamrlz](https://github.com/Daffamrlz) 👋
 
-I am a final year Machine Design Engineer at [Bandung State Polytechnic](https://www.polban.ac.id), Indonesia. In another way I interest in Machine Learning, Python, especially Pygame library
+I am a final year Machine Design Engineer at [Bandung State Polytechnic](https://www.polban.ac.id), Indonesia. In another way I interest in Machine Learning, Python as a passionate rookies
 
 **Recent Update**:
 - **August 2022**: Completed " Start Programming with Python" by Dicoding Indonesia. [[Certificate]](https://www.dicoding.com/certificates/EYX425QQJZDL)
