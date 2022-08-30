@@ -43,6 +43,4 @@ I am a final year Machine Design Engineer at [Bandung State Polytechnic](https:/
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/sysnapsix/?hl=id)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daffamrlz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | 
-
 
