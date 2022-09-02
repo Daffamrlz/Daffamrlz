@@ -11,6 +11,7 @@ I am a final year Machine Design Engineer at [Bandung State Polytechnic](https:/
 
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)
 
 
 #### ML/DL
